@@ -70,9 +70,16 @@ print(list_of_nums)
 
 ## Output:
 i) #Selection sort
+
+
+
+
 ![Screenshot 2023-12-30 211943](https://github.com/MSDharanish-23011819/Sorting-Algorithm/assets/147139454/3e5ac3d0-8a48-41a5-b5a4-47b060ed9a9d)
 
 ii)	#Insertion Sort
+
+
+
 ![Screenshot 2023-12-30 212230](https://github.com/MSDharanish-23011819/Sorting-Algorithm/assets/147139454/d5ed008d-2e95-4835-9887-27c18d290ae3)
 
 
